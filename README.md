@@ -235,7 +235,8 @@ Dit houdt in dat je een dunne laag soldeermetaal (tin) aanbrengt op de blootgest
 
 Stapsgewijs gaan wij de draden solderen. Hier alvast een overzicht van het circuit, daarna een stap voor stap uitleg.
 
-<img align="right" width="45%" src="instructions-images/circuit.png">
+<img width="45%" src="instructions-images/circuit.png">
+<!-- align="right"  -->
 
 1. **LED WD2812:**
 
