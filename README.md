@@ -357,7 +357,11 @@ Alles klaar? Laat iemand van de Makerspace je soldeerwerk controleren, waar geza
 
         <img width="25%" src="instructions-images/montage-voorkant.png">
         
-- Plaats de zijkant 
+- Plaats de zijkant
+
+  - `optioneel`: plaats het event logo in de zijnkant
+
+    <img width="25%" src="instructions-images/montage-zijkant-eventlogo.png">     
 
   - Schroef deze vast aan de voorkant, met 2 boutjes
 
