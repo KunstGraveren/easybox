@@ -85,13 +85,6 @@
 - 1x groen 100mm
 - 1x geel 100mm
      
--------------------------
-    for 20 boxes
-        rood    = 300mm *  20 = 6000mm
-        zwart   = 180mm *  20 = 3600mm
-        groen   = 100mm *  20 = 2000mm
-        geel    = 100mm *  20 = 2000mm
-
 ## Tools:
 
 - 1x M3 Inbus (2.5) 
