@@ -194,7 +194,7 @@ Dit houdt in dat je een dunne laag soldeermetaal (tin) aanbrengt op de blootgest
 
 - Ver-tin de uiteinden van de draden die je zojuist hebt gestript en hebt samengevoegd.  
 
-- knip de overige lengte van de vertinde uitbeides af zodat er 1/1.5mm over blijft om aan de Arduino Nano/switch te solderen
+- knip de overige lengte van de vertinde uitbeides af zodat er 1/1.5mm over blijft om aan de Arduino Nano/Switch/LCD te solderen
 
 **Schakelaar:** 
 
