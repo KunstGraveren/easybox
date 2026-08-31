@@ -205,6 +205,8 @@ Dit houdt in dat je een dunne laag soldeermetaal (tin) aanbrengt op de blootgest
 **LCD:** 
 
 - Ver-tin alle pads van de LCD scherm
+  
+    <img width="30%" src="instructions-images/bedraging-lcd.png">
     
 
 **Arduino Nano:** 
