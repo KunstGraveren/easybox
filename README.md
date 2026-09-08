@@ -298,7 +298,7 @@ Stapsgewijs gaan wij de draden solderen. Hier alvast een overzicht van het circu
     -> **LCD CLK**
 
 -  Soldeer de losse uiteinde van de combineerde `lange` zwarte draad op de **LCD (GND)**.
-    -> Arduino Nano GND
+    
 
 
 
