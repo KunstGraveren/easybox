@@ -289,7 +289,6 @@ Stapsgewijs gaan wij de draden solderen. Hier alvast een overzicht van het circu
 ### **Stap 6:**
 
 -  Soldeer de rode draad aan **5v** pin van de Arduino Nano.
-
     -> VCC LCD
     
 -  Soldeer de losse uiteinde van de combineerde `lange` zwarte draad op de **LCD (GND)**.
