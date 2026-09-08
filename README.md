@@ -21,7 +21,7 @@
     - [Bedrading Solderen aan de Arduino Nano:](#bedrading-solderen-aan-de-arduino-nano)
         - [Stap 0:](#stap-0)
         - [Stap 1: Zwart GND -> Schakelaar -> LED](#stap-1-zwart-gnd---schakelaar---led)
-        - [**Stap 2: **](#stap-2-)
+        - [Stap 2:](#stap-2-)
         - [Stap 3:](#stap-3)
         - [Stap 4:](#stap-4)
         - [Stap 4:](#stap-4)
@@ -261,7 +261,7 @@ Stapsgewijs gaan wij de draden solderen. Hier alvast een overzicht van het circu
 ### **Stap 1: Zwart GND -> Schakelaar -> LED**
 - Soldeer de losse `korte` uiteinde van de `combineerde zwarte` draad op de schakelaar en led.
 
-### **Stap 2: **    
+### **Stap 2:**    
 - De `gecombineerde kant` van de zwarte draad, Soldeer deze aan de **GND** pin van de Arduino Nano.
 
 ### **Stap 3:**
