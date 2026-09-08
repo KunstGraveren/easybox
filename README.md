@@ -31,17 +31,7 @@
     - [LED Solderen aan de Arduino Nano:](#led-solderen-aan-de-arduino-nano)
     - [PowerOn](#poweron)
 - [Montage:](#montage)
-- [How to Upload Code to an Arduino Nano AVR Using the Arduino IDE](#how-to-upload-code-to-an-arduino-nano-avr-using-the-arduino-ide)
-    - [Step 1: Install the Arduino IDE](#step-1-install-the-arduino-ide)
-    - [Step 2: Connect Your Arduino Nano](#step-2-connect-your-arduino-nano)
-    - [Step 3: Open the Arduino IDE](#step-3-open-the-arduino-ide)
-    - [Step 4: Select the Correct Board](#step-4-select-the-correct-board)
-    - [Step 5: Select the Correct Processor and Bootloader](#step-5-select-the-correct-processor-and-bootloader)
-    - [Step 6: Select the Correct Port](#step-6-select-the-correct-port)
-    - [Step 7: Open or Write Your Code](#step-7-open-or-write-your-code)
-    - [Step 8: Verify the Code](#step-8-verify-the-code)
-    - [Step 9: Upload the Code](#step-9-upload-the-code)
-    - [Step 10: Confirm Upload](#step-10-confirm-upload)
+- [Code Uploaden:](#code-uploaden)
 
 <!-- /TOC -->
 
