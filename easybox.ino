@@ -1,4 +1,9 @@
 
+// export:
+  // enable verbose logging: Enable File > Preferences > Show verbose output during compilation
+  // find in the logging the temp location: C:\Users\[user]\AppData\Local\Temp\arduino_build_791358
+  // there u will find the bin file
+
 // v8
 //  -- 
 // ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
