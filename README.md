@@ -277,13 +277,11 @@ Stapsgewijs gaan wij de draden solderen. Hier alvast een overzicht van het circu
 ### **Stap 4:**
 
 -  Soldeer de rode draad (80mm) aan **D3** pin van de Arduino Nano.
-    
     -> schakelaar
 
 ### **Stap 5:**
 
 -  Soldeer de rode draad (80mm) aan **D4** pin van de Arduino Nano.
-
     -> Button LED +
 
 ### **Stap 6:**
