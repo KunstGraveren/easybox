@@ -46,8 +46,8 @@
 - 2x zijkant
 - 1x lcd mount
 - 1x lcd clip
-- 2x 90 koppel connector ?
-- 2x 270 koppel connector ?
+- 2x 90 koppel connector
+- 2x 270 koppel connector
 
 - 1x event logo 
 
