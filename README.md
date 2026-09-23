@@ -203,13 +203,6 @@ Dit houdt in dat je een dunne laag soldeermetaal (tin) aanbrengt op de blootgest
   
     <img width="30%" src="instructions-images/bedraging-lcd.png">
     
-
-
-
-
-
-
-
 **Arduino Nano:** 
 
 - Ver-tin de pads van de Arduino Nano, zodat we hier later gemakkelijk de bedraging/led aan kunnen solderen:
@@ -227,9 +220,34 @@ Dit houdt in dat je een dunne laag soldeermetaal (tin) aanbrengt op de blootgest
 
 ---
 
+## **Arduino Nano Pinnen Solderen:**  
+
+- Soldeer de Arduino Nano vast aan de pinnen die je in stap 2 hebt geplaatst. Dit is alleen zodat de Arduino Nano blijft zitten in de box. 1 van de 2 pennen is voldoende om dit resultaat te krijgen.
+
+  - Let goed op dat je de juiste gaten gebruikt; je dient de buitenste twee soldeergaten aan de hoeken van de Arduino Nano te gebruiken voor een correcte en stevige verbinding.
+
+  ** uitzondering voor de Arduino nano, die extra pinnen hebben. Hierdoor zal deze de één na laaste pinnen bevatten aan de niet usb kant.
+
+  <img width="75%" src="instructions-images/solderen-07.png">  
+
+
+## **WS2812 LED Solderen aan de Arduino Nano:** 
+  
+  <img align="right" width="10%" src="instructions-images/led-circuit.png">
+
+  - Plaats de LED op zijn plek. (platte zijde zit aan de rechterkant, in de foto)
+
+  - Soldeer de (-) aan de **GND** pin van de Arduino Nano. \*(ICSP pins)  
+      
+  - Soldeer de (+) aan pin **5V** van de Arduino Nano. \*(ICSP pins)  
+      
+  - Soldeer de rode draad die je eerder op **D2** van de Arduino Nano hebt gesoldeerd, vast aan de (data) pin van de LED.
+
+    <img width="75%" src="instructions-images/solderen-08.png">
+
 ## **Bedrading Solderen aan de Arduino Nano:** 
 
-Stapsgewijs gaan wij de draden solderen. Hier alvast een overzicht van het circuit, daarna een stap voor stap uitleg.
+Onder dit overzicht gaan we stapsgewijs de draden solderen. Hier alvast een overzicht van het circuit, daarna een stap voor stap uitleg.
 
 <img width="45%" src="instructions-images/circuit.png">
 <!-- align="right"  -->
@@ -259,7 +277,6 @@ Stapsgewijs gaan wij de draden solderen. Hier alvast een overzicht van het circu
     | LCD (-)   |     | \-\> | Zwart | \-\> | GND op de Arduino Nano |
     | LCD (CLK) |     | \-\> | Groen | \-\> | D5 op de Arduino Nano  |
     | LCD (DIO) |     | \-\> | Geel  | \-\> | D6 op de Arduino Nano  |
-        
 
 ### **Stap 0:**
 
@@ -278,8 +295,6 @@ Stapsgewijs gaan wij de draden solderen. Hier alvast een overzicht van het circu
 - De `gecombineerde kant` van de zwarte draad, Soldeer deze aan de **GND** pin van de Arduino Nano.
 
 ### **Stap 3:**
-- Plaats de ws2812 led in de bodem van de box
-
 - Ver-tin de linker led pin
 
 - Soldeer de rode draad (50mm) aan **D2** pin van de Arduino Nano.
@@ -297,14 +312,14 @@ Stapsgewijs gaan wij de draden solderen. Hier alvast een overzicht van het circu
 
 ### **Stap 6:**
 
--  Soldeer de rode draad aan **5v** pin van de Arduino Nano.
-    -> **LCD VCC**
-
+-  Soldeer de witte draad aan **D5** pin van de Arduino Nano. (groen in scherma)
+    -> **LCD CLK**
+   
 -  Soldeer de gele draad aan **D6** pin van de Arduino Nano.
     -> **LCD DIO**
 
--  Soldeer de groene draad aan **D5** pin van de Arduino Nano.
-    -> **LCD CLK**
+-  Soldeer de rode draad aan **5v** pin van de Arduino Nano.
+    -> **LCD VCC**
 
 -  Soldeer de losse uiteinde van de combineerde `lange` zwarte draad op de **LCD (GND)**.
     
@@ -313,31 +328,7 @@ Stapsgewijs gaan wij de draden solderen. Hier alvast een overzicht van het circu
 
 ---
 
-## **Arduino Nano Pinnen Solderen:**  
 
-
-- Soldeer de Arduino Nano vast aan de pinnen die je in stap 2 hebt geplaatst. Dit is alleen zodat de Arduino Nano blijft zitten in de box. 1 van de 2 pennen is voldoende om dit resultaat te krijgen.
-
-  - Let goed op dat je de juiste gaten gebruikt; je dient de buitenste twee soldeergaten aan de hoeken van de Arduino Nano te gebruiken voor een correcte en stevige verbinding.
-
-  ** uitzondering voor de Arduino nano, die extra pinnen hebben. Hierdoor zal deze de één na laaste pinnen bevatten aan de niet usb kant.
-
-  <img width="75%" src="instructions-images/solderen-07.png">  
-
-## **LED Solderen aan de Arduino Nano:** 
-  
-  <img align="right" width="10%" src="instructions-images/led-circuit.png">
-
-  - Plaats de LED op zijn plek. (platte zijde zit aan de rechterkant, in de foto)
-
-  - Soldeer de (-) aan de **GND** pin van de Arduino Nano. \*(ICSP pins)  
-      
-  - Soldeer de (+) aan pin **5V** van de Arduino Nano. \*(ICSP pins)  
-      
-  - Soldeer de rode draad die je eerder op **D2** van de Arduino Nano hebt gesoldeerd, vast aan de (data) pin van de LED.
-
-  
-    <img width="75%" src="instructions-images/solderen-08.png">
 
 
 ## **PowerOn** 
