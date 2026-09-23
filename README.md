@@ -64,17 +64,16 @@
 - 1x WS2812B LED
 
 ## Bekabeling:
+- 1x rood (50mm)
 
-- 1x rood 40mm
-- 2x rood 80mm
-- 1x rood 100mm
-    - totaal: 300mm
-- 1x zwart 80mm
-- 1x zwart 100mm
-    - toaal: 180mm
-- 1x groen 100mm
-- 1x geel 100mm
-     
+- 1x rood
+- 1x zwart
+
+- 1x zwart
+- 1x rood
+- 1x geel
+- 1x wit
+  
 ## Tools:
 
 - 1x M3 Inbus (2.5) 
@@ -126,9 +125,7 @@ Neem vier 2-pins connectoren en plaats deze in de buitenste hoeken van de bodemp
     
     
     <img  width="25%" src="instructions-images/voorbereiding-connectors-zijkant.png">
-
-
-
+    
         - Monteer de hoek connectors zijplaten. (voor achterplaat + bovenplaat)
 
         Let op dat er een boven- en onderkant is. Waar de gleuf zit is de onderkant van het paneel.
@@ -174,6 +171,11 @@ Neem vier 2-pins connectoren en plaats deze in de buitenste hoeken van de bodemp
 
 # 2.Solderen:
 
+## **uiteindes strippen:** 
+Strip de mantel van de uitendes van de bedraging zo'n 5 mm, zodat de koperdraden worden blootgesteld.
+Voor de losse zwarte draad, dient deze aan 1 kant 25mm te worden blootgesteld.
+
+
 ## **Ver-tinnen:** 
 
 Dit houdt in dat je een dunne laag soldeermetaal (tin) aanbrengt op de blootgestelde koperdraden om een betere verbinding te creëren als je ze soldeert.
@@ -186,9 +188,9 @@ Dit houdt in dat je een dunne laag soldeermetaal (tin) aanbrengt op de blootgest
 
 - knip de overige lengte van de vertinde uitbeides af zodat er 1/1.5mm over blijft om aan de Arduino Nano/Switch/LCD te solderen
 
-**Schakelaar:** 
+**Schakelaar & led:** 
 
-- Ver-tin de uiteinden van de schakelaar      
+- Ver-tin de uiteinden van de schakelaar & led
     
     <img width="30%" src="instructions-images/bedraging-switch.png">
 
@@ -198,6 +200,12 @@ Dit houdt in dat je een dunne laag soldeermetaal (tin) aanbrengt op de blootgest
   
     <img width="30%" src="instructions-images/bedraging-lcd.png">
     
+
+
+
+
+
+
 
 **Arduino Nano:** 
 
