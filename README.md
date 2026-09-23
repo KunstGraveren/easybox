@@ -278,24 +278,22 @@ Stapsgewijs gaan wij de draden solderen. Hier alvast een overzicht van het circu
 - De `gecombineerde kant` van de zwarte draad, Soldeer deze aan de **GND** pin van de Arduino Nano.
 
 ### **Stap 3:**
-- Soldeer de rode draad (40mm) aan **D2** pin van de Arduino Nano. 
-
-### **Stap 4:**
 - Plaats de ws2812 led in de bodem van de box
 
 - Ver-tin de linker led pin
 
-- Soldeer de rode draad (50mm) aan de WS2812 LED + ( linker pin, als die in de bodem zit, en de arduino met de usb port naar jouw wijst )
+- Soldeer de rode draad (50mm) aan **D2** pin van de Arduino Nano.
+    -> naar de WS2812 LED + ( linker pin, als die in de bodem zit, en de arduino met de usb port naar jouw wijst )
 
 ### **Stap 4:**
 
 -  Soldeer de rode draad (50mm) aan **D3** pin van de Arduino Nano.
-    -> schakelaar
+    -> naar de schakelaar
 
 ### **Stap 5:**
 
 -  Soldeer de rode draad (50mm) aan **D4** pin van de Arduino Nano.
-    -> Button LED +
+    -> naar de Button LED +
 
 ### **Stap 6:**
 
